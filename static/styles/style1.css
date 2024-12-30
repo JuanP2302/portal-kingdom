@@ -1,0 +1,162 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 185vh;
+  }
+  
+  .container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .box1 {
+    background-image: url(/static/assets/img/zack.png);
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 60px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .box1 a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 5px 0;
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+  .box2 {
+    background-image: url(/static/assets/img/niko.png);
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 60px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .box2 a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 5px 0;
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+.box3 {
+  background-image: url(/static/assets/img/Mia.png);
+  color: #ffffff;
+  border-radius: 30px;
+  padding: 60px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.box3 a {
+  display: block;
+  color: #ffffff;
+  text-decoration: none;
+  margin: 5px 0;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+.box4 {
+    background-image: url(/static/assets/img/samy.png);
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 60px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .box4 a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 5px 0;
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+  .box5 {
+    background-image: url(/static/assets/img/chris.png);
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 60px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .box5 a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 5px 0;
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+  .box6 {
+    background-image: url(/static/assets/img/noah.png);
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 60px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .box6 a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 5px 0;
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+  .box7 {
+    background-image: url(/static/assets/img/draven.png);
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 60px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .box7 a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 5px 0;
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+  .box8 {
+    background-image: url(/static/assets/img/max.png);
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 60px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .box8 a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 5px 0;
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+  .box9 {
+    background-image: url(/static/assets/img/jake.png);
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 60px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .box9 a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 5px 0;
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+  
